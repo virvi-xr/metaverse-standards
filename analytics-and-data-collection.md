@@ -1,12 +1,14 @@
 # Standards For Ethical Analytics and Data Collection in the Metaverse
 
-Unknower
+Steven A. Williams ("Unknower")
 
-unknower@vlm.gg
+steven@livication.com
 
-Virtual Land Manager
+Virvi
 
-*www.vlm.gg*
+*[virvi.io](https://virvi.io)*
+
+*Originally published August 2023 by Virtual Land Manager (VLM), which is now Virvi.*
 
 **I. Introduction**
 
